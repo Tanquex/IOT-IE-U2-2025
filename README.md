@@ -29,8 +29,11 @@
 
 ### Codigos de Python
 
+- Enlace a carpeta de Codigos: https://github.com/Tanquex/IOT-IE-U2-2025/tree/main/Codigos
+
 
 ### Diagramas de conexion
+
 
 ### Placa con leds 
 
