@@ -33,14 +33,10 @@
 
 
 ### Diagramas de conexion
+- Link con imagenes del diagrama: 
 
 
 ### Placa con leds 
-
-
-### Ejercicio 4 Figura 2D o 3D soldada
-- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_0a2d3408](https://github.com/user-attachments/assets/875e0c1e-489d-4e3a-a13b-d421d507f686)
-- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_7418d538](https://github.com/user-attachments/assets/d19699e0-1878-43e5-b5d9-4a46cb1b6d07)
 
 
 
