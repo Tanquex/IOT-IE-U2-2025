@@ -12,12 +12,7 @@
 - Examen 4:![image](https://github.com/user-attachments/assets/a003b25d-1203-472d-8965-e70c3ec21585)
 
 - Examen final:![image](https://github.com/user-attachments/assets/159df579-7181-42f6-91e5-5b2f0e09058f)
-
-
-
-
-
-
+- Quizziz: ![image](https://github.com/user-attachments/assets/2932ab98-be8e-483d-a5d3-bad4a97fe1c3)
 
 
 
@@ -33,10 +28,17 @@
 
 
 ### Diagramas de conexion
-- Link con imagenes del diagrama: 
+- Link con imagenes del diagrama: https://app.cirkitdesigner.com/project/ebbcdb61-f8c0-40aa-b5c3-fc2a7b9fcd42
 
 
 ### Placa con leds 
+- Video de funcionamiento: https://drive.google.com/file/d/1N_ukVTcnm-_9ZXig5n19fEZu8cEZS7mW/view?usp=sharing
+- ![image](https://github.com/user-attachments/assets/62905409-a362-47cb-a42d-d915a91bcf0d)
+- ![image](https://github.com/user-attachments/assets/8e281c2c-36b4-49e7-96e1-abb9b514598c)
+- ![image](https://github.com/user-attachments/assets/9dcc52ff-5186-426b-ac70-b8bac106b471)
+
+
+
 
 
 
