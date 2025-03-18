@@ -28,7 +28,7 @@
 
 
 ### Diagramas de conexion
-- Link con imagenes del diagrama: https://app.cirkitdesigner.com/project/ebbcdb61-f8c0-40aa-b5c3-fc2a7b9fcd42
+- Link con imagenes del diagrama: [https://app.cirkitdesigner.com/project/ebbcdb61-f8c0-40aa-b5c3-fc2a7b9fcd42](https://app.cirkitdesigner.com/project/fbee199d-c583-4f33-a750-edf2f2c7e86c)
 
 
 ### Placa con leds 
